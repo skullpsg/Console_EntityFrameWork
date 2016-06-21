@@ -1,0 +1,9 @@
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\bin\Debug\creatingEntityFramework.exe.config
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\bin\Debug\creatingEntityFramework.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\bin\Debug\creatingEntityFramework.pdb
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\bin\Debug\EntityFramework.dll
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\bin\Debug\EntityFramework.xml
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\obj\Debug\creatingEntityFramework.exe
+c:\users\vishn_000\documents\visual studio 2015\Projects\creatingEntityFramework\creatingEntityFramework\obj\Debug\creatingEntityFramework.pdb
