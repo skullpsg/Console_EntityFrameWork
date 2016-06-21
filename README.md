@@ -3,7 +3,7 @@ In this console Application,I have implemented Entity-Framework Code First appro
 # Environments
 1.vs 2015 2.Entity Framework 6.1 3
 
-How to work with
+# How to work with
 1.download the Project.
 
 2.change the connection string in Web.config
